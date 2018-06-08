@@ -1,0 +1,111 @@
+Year	Locationabbr	Locationdesc	Class	Topic	Question	Response	Break_Out	Break_Out_Category	Sample_Size	Data_value	Confidence_limit_Low	Confidence_limit_High	Display_order	Data_value_unit
+2014	AL	Alabama	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"5,143"	60	58.5	61.5	"1,208"	%
+2014	AK	Alaska	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"2,921"	64.4	62.3	66.4	"1,200"	%
+2014	AZ	Arizona	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"9,652"	59	57.7	60.4	"1,206"	%
+2014	AR	Arkansas	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"3,047"	57.1	55	59.2	"1,205"	%
+2014	CA	California	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"5,977"	65.1	63.8	66.4	"1,205"	%
+2014	CO	Colorado	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"9,234"	67	66	68.1	"1,207"	%
+2014	CT	Connecticut	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"6,193"	74.9	73.5	76.3	"1,201"	%
+2014	DE	Delaware	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"2,894"	66.5	64.5	68.6	"1,201"	%
+2014	DC	District of Columbia	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"3,003"	70.8	68.3	73.4	"1,197"	%
+2014	FL	Florida	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"6,475"	61.9	60.6	63.3	"1,208"	%
+2014	GA	Georgia	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,062"	60.6	58.8	62.3	"1,206"	%
+2014	HI	Hawaii	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"5,151"	71.6	70.1	73.1	"1,206"	%
+2014	ID	Idaho	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"3,526"	64.3	62.4	66.2	"1,195"	%
+2014	IL	Illinois	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"3,494"	63.9	62.1	65.7	"1,202"	%
+2014	IN	Indiana	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"7,555"	61.5	60.3	62.8	"1,204"	%
+2014	IA	Iowa	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"5,814"	69.4	68.1	70.8	"1,205"	%
+2014	KS	Kansas	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"9,477"	67.3	66.3	68.3	"1,209"	%
+2014	KY	Kentucky	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"6,817"	61	59.4	62.5	"1,205"	%
+2014	LA	Louisiana	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,022"	58.3	56.8	59.8	"1,206"	%
+2014	ME	Maine	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"6,154"	63.6	62.3	65	"1,195"	%
+2014	MD	Maryland	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"9,304"	70.2	68.6	71.8	"1,208"	%
+2014	MA	Massachusetts	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"11,538"	74.7	73.6	75.8	"1,207"	%
+2014	MI	Michigan	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"6,188"	68.6	67.3	69.9	"1,209"	%
+2014	MN	Minnesota	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"12,204"	72.6	71.8	73.5	"1,209"	%
+2014	MS	Mississippi	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"2,432"	56.8	54.6	58.9	"1,196"	%
+2014	MO	Missouri	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,104"	58.6	56.9	60.3	"1,206"	%
+2014	MT	Montana	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,791"	62.6	60.9	64.2	"1,198"	%
+2014	NE	Nebraska	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"14,862"	66.4	65.4	67.4	"1,208"	%
+2014	NV	Nevada	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"2,397"	59.9	57.4	62.4	"1,202"	%
+2014	NH	New Hampshire	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,391"	69.4	67.7	71.2	"1,198"	%
+2014	NJ	New Jersey	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"9,394"	70.2	68.9	71.4	"1,207"	%
+2014	NM	New Mexico	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"5,629"	61.3	59.8	62.9	"1,203"	%
+2014	NY	New York	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,753"	67.3	65.9	68.8	"1,206"	%
+2014	NC	North Carolina	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,713"	64.2	62.8	65.5	"1,206"	%
+2014	ND	North Dakota	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"5,374"	65.5	63.7	67.2	"1,180"	%
+2014	OH	Ohio	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"7,214"	65.3	63.9	66.8	"1,207"	%
+2014	OK	Oklahoma	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,919"	56.8	55.4	58.2	"1,208"	%
+2014	OR	Oregon	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"3,558"	65.7	63.9	67.4	"1,200"	%
+2014	PA	Pennsylvania	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"7,420"	66.8	65.6	68.1	"1,204"	%
+2014	RI	Rhode Island	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,816"	72.1	70.4	73.7	"1,200"	%
+2014	SC	South Carolina	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"6,679"	58.3	57.1	59.6	"1,209"	%
+2014	SD	South Dakota	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"5,262"	70.5	68.6	72.5	"1,201"	%
+2014	TN	Tennessee	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"2,993"	58.3	56.3	60.3	"1,199"	%
+2014	TX	Texas	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"9,653"	58.2	56.8	59.5	"1,209"	%
+2014	UT	Utah	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"10,594"	68.9	68	69.8	"1,207"	%
+2014	VT	Vermont	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,741"	72.2	70.9	73.5	"1,191"	%
+2014	VA	Virginia	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"6,762"	69.3	68	70.6	"1,207"	%
+2014	WA	Washington	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"7,232"	67	65.6	68.3	"1,207"	%
+2014	WV	West Virginia	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"3,492"	54.2	52.7	55.7	"1,200"	%
+2014	WI	Wisconsin	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"5,085"	70.1	68.6	71.7	"1,201"	%
+2014	WY	Wyoming	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"4,403"	65	62.9	67.1	"1,198"	%
+2014	PR	Puerto Rico	Oral Health	Dental Visit	Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)	Yes	Overall	Overall	"3,956"	65.8	64.2	67.3	"1,133"	%
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
