@@ -36,5 +36,15 @@ When `d3.html` displays the graphic just as you'd like it to, we embed it in `in
 
 To view the result, please download the files, open cmd in the file, and type `python -m http.server` in the cmd, and use your local path (something like this http://###.#.#.#:8000) to view the website. 
 
-Although the solution has been deployed through Gibhub, there are currently some difficulties trying to call the data properly. As such, please use the download method now for reivew.
+Alternatively, the solution has been deployed through [Gibhub](https://zl14e161110.github.io/HW16---Data-Journalism-and-D3/.). 
+
+Below are some snapshots of the website:
+![1](Images/web1.png)
+
+![2](Images/web2.png)
+
+![3](Images/web3.png)
+
+![4 with tooltip](Images/web4.png)
+  
 
