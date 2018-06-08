@@ -39,12 +39,12 @@ To view the result, please download the files, open cmd in the file, and type `p
 Alternatively, the solution has been deployed through [Gibhub](https://zl14e161110.github.io/HW16---Data-Journalism-and-D3/.). 
 
 Below are some snapshots of the website:
-![1](Images/web1.png)
+![1](images/web1.png)
 
-![2](Images/web2.png)
+![2](images/web2.png)
 
-![3](Images/web3.png)
+![3](images/web3.png)
 
-![4 with tooltip](Images/web4.png)
+![4 with tooltip](images/web4.png)
   
 
